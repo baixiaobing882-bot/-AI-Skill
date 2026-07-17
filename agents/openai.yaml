@@ -1,0 +1,4 @@
+interface:
+  display_name: "倪海厦易经断事 AI"
+  short_description: "可复现正式起卦、卦象校验与审慎行动导向断事分析"
+  default_prompt: "使用 $nihaisha-iching-divination 为我的具体问题正式起卦，并清楚区分卦象事实、传统象义与推断。"
